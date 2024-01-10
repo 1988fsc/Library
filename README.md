@@ -1,7 +1,7 @@
 # Fundamentos c#
 
-## Lógica aplicada a linguagem![Exemplos](image.png)
-
+## Lógica aplicada a linguagem
+![Exemplos](image.png)
 ## Contexto
 Reunir os conhecimentos adquiridos de fundamentos. 
 
