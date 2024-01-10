@@ -6,21 +6,21 @@
 Reunir os conhecimentos adquiridos de fundamentos. 
 
 
-**Casting**
+- **Casting**
 
-**Operadores Condicionais**
+- **Operadores Condicionais**
 
-**Classe Math** 
+- **Classe Math** 
 
-**Laço de Repetição**
+- **Laço de Repetição**
 
-**Array e List**
+- **Array e List**
 
-**Propriedade, Metodos e Contrutores**
+- **Propriedade, Metodos e Contrutores**
 
-**Valor monetário e Date Time**
+- **Valor monetário e Date Time**
 
-**Exceções e Coleções**
+- **Exceções e Coleções**
 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
